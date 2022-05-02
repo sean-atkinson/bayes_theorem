@@ -1,2 +1,7 @@
-# 10.01-lab-bayes_practice
-Week 10, Lab 1: Bayes Practice
+# Bayes Theorem
+
+![Bayes Theorm](https://imgur.com/xHDZJT5.jpg)
+
+<a href="https://towardsdatascience.com/bayes-rule-with-a-simple-and-practical-example-2bce3d0f4ad0"> Image courtesy of Tirthajyoti Sarkar</a>
+
+In which I attempt to tackle some practice problems and then move on from probabilities to distributions.
